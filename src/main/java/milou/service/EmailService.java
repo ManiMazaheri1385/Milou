@@ -1,9 +1,8 @@
 package milou.service;
 
 import milou.email.*;
-
-import java.util.Arrays;
 import java.util.List;
+import java.util.Arrays;
 import java.util.ArrayList;
 import org.hibernate.Session;
 import org.hibernate.query.Query;
