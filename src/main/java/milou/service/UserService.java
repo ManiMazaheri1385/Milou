@@ -1,8 +1,8 @@
 package milou.service;
 
 import milou.email.User;
-import milou.framework.SingletonSessionFactory;
 import org.hibernate.query.Query;
+import milou.framework.SingletonSessionFactory;
 
 import java.util.concurrent.atomic.AtomicReference;
 
